@@ -80,6 +80,11 @@ textarea{
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
+  color: lightgrey;
+}
+
+.fa-archive:hover {
+  color: lightgreen;
 }
 
 /* media styling for tablets and phones */
