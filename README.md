@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-![scheduler3](https://user-images.githubusercontent.com/72768374/104115986-5a85d300-52da-11eb-814a-8ad039d8b77c.gif)
+![scheduler4](https://user-images.githubusercontent.com/72768374/104116362-6fb03100-52dd-11eb-9560-27e68d100e52.gif)
 
 ## Table of Contents
 * Usage
