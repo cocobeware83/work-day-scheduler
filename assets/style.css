@@ -14,6 +14,7 @@ textarea{
 }
 
 .jumbotron {
+  background-image: url('../assets/images/wrinkled-paper.jpg');
   text-align: center;
   background-color: transparent;
   color: black;
@@ -22,7 +23,6 @@ textarea{
 }
 .month-day {
   font-weight: bolder;
-  color: red;
 }
 
 .description{
@@ -80,4 +80,27 @@ textarea{
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
+}
+
+/* media styling for tablets and phones */
+@media screen and (max-width: 768px), screen and (max-width: 575px) {
+  
+  textarea {
+    min-height: 85px;
+    border: 0;
+  }
+  .row {
+    height: auto;
+    margin-top: 20px;
+  }
+
+  .hour {
+    padding-right: 17%;
+  }
+
+  .saveBtn {
+    border: 0;
+    border-radius: 0.25rem;
+    height: 50px;
+  }
 }
