@@ -37,4 +37,14 @@ else {
 getTime();})
 
 
+//retrieve info from local storage upon page refresh
 
+$("#block-9 .description").val(localStorage.getItem("block-9"));
+$("#block-10 .description").val(localStorage.getItem("block-10"));
+$("#block-11 .description").val(localStorage.getItem("block-11"));
+$("#block-12 .description").val(localStorage.getItem("block-12"));
+$("#block-13 .description").val(localStorage.getItem("block-13"));
+$("#block-14 .description").val(localStorage.getItem("block-14"));
+$("#block-15 .description").val(localStorage.getItem("block-15"));
+$("#block-16 .description").val(localStorage.getItem("block-16"));
+$("#block-17 .description").val(localStorage.getItem("block-17"));
