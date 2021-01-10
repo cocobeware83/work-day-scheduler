@@ -103,7 +103,7 @@ textarea{
   }
 
   .time-block{
-    margin:auto;
+    margin: auto;
   }
   .row {
     width: 90%;
@@ -114,7 +114,7 @@ textarea{
   .col-1 {
     width: 100%;
     height: 90%;
-    padding-right: 20%;
+    padding-right: 100%;
   }
 
   .saveBtn {
