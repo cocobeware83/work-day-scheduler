@@ -14,7 +14,7 @@
 
 ## Links
 * Deployed application: https://cocobeware83.github.io/work-day-scheduler/
-* Github Repository: https://github.com/cocobeware83/coryneel
+* Github Repository: https://github.com/cocobeware83/work-day-scheduler
 
 ## Contributors
 * Starter Code provided by UT Coding Bootcamp
