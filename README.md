@@ -10,12 +10,12 @@
 
 
 ## Usage
-* This is a simple application to assist with workday organization.  The user can enter tasks they wish to accomplish hour-by-hour within the span of a typical work day.  The application will keep track of your saved tasks, and warn you with color coded blocks when your tasks are drawin gnear to their deadline. This application can be used day-to-day, as the timeblocks can be cleared and reused daily.
+* This is a simple application to assist with workday organization.  The user can enter tasks they wish to accomplish hour-by-hour within the span of a typical work day.  The application will keep track of your saved tasks, and warn you with color coded blocks when your tasks are drawing near to their deadline. This application can be used over and over, as the timeblocks can be cleared and reused daily.
 
 ## Links
 * Deployed application: https://cocobeware83.github.io/work-day-scheduler/
-Github Repository: https://github.com/cocobeware83/coryneel
+* Github Repository: https://github.com/cocobeware83/coryneel
 
 ## Contributors
-* Starter Code provided by UT Coding Bootcamp.
+* Starter Code provided by UT Coding Bootcamp
 * All additional code provided by: **Cory Neel**, *UT Coding Bootcamp Student*
