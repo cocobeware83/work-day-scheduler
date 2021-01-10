@@ -3,16 +3,7 @@ body {
   font-size: 16px;
   line-height: 1;
 }
-
-textarea{
-  background: transparent;
-  border: none;
-  resize: none;
-  color: #000000;
-  border-left: 1px solid black;
-  padding: 10px;
-}
-
+/* styling for header */
 .jumbotron {
   background-image: url('../assets/images/wrinkled-paper.jpg');
   text-align: center;
@@ -25,8 +16,11 @@ textarea{
   font-weight: bolder;
 }
 
-.description{
+/* styling for timeblocks*/
+.row {
   white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid white;;
 }
 
 .time-block{
@@ -34,16 +28,23 @@ textarea{
   border-radius: 15px;
 }
 
-.row {
-  white-space: pre-wrap;
-  height: 80px;
-  border-top: 1px solid white;;
-}
-
 .hour {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
+}
+
+.description{
+  white-space: pre-wrap;
+}
+
+textarea{
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
 }
 
 .past {
@@ -61,6 +62,7 @@ textarea{
   color: white;
 }
 
+/*styling for save buttons*/
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
@@ -74,7 +76,7 @@ textarea{
   transition: all .3s ease-in-out;
   
 }
-
+/* styling for button icons */
 .fa-archive {
   position: absolute;
   top: 50%;
