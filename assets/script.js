@@ -8,8 +8,9 @@ var todaysDate=moment().format('dddd, MMMM Do YYYY');
 $(".saveBtn").on("click", function () {
         
 //get values of the timeblock content and time then save to local storage
-var content = $(this).siblings(".description").val();
 var time = $(this).parent().attr("id");
+var content = $(this).siblings(".description").val();
+
     localStorage.setItem(time, content);})
 
     function getTime() {
