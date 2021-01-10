@@ -20,6 +20,10 @@ textarea{
   border-radius: 0;
   border-bottom: 10px solid black;
 }
+.month-day {
+  font-weight: bolder;
+  color: red;
+}
 
 .description{
   white-space: pre-wrap;
