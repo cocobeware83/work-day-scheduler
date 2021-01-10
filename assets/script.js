@@ -19,7 +19,7 @@ var currentTime=moment().hour();
             
 //define variable for if else loops
 $(".time-block").each(function () {
-    var rowTime = parseInt($(this).attr("id").split("block")[1]);
+    var rowTime = parseInt($(this).attr("id").split("hour")[1]);
 
 //set if else loops to call state of time in each row and color coding for state of task
 if (rowTime < currentTime) {
